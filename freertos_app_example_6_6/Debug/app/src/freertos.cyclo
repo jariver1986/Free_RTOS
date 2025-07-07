@@ -1,0 +1,3 @@
+../app/src/freertos.c:63:6:vApplicationIdleHook	1
+../app/src/freertos.c:79:6:vApplicationTickHook	1
+../app/src/freertos.c:90:6:vApplicationStackOverflowHook	1
